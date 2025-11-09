@@ -1,7 +1,7 @@
 System-Monitor-Tool
 
-Objective  
-Create a System Monitor Tool in *C++* that displays real-time information about system processes, memory usage, and CPU load — similar to the top command in Linux.
+ ## Objective  
+ Create a System Monitor Tool in *C++* that displays real-time information about system processes, memory usage, and CPU load — similar to the top command in Linux.
 
  Features
 1. Displays real-time CPU usage  
