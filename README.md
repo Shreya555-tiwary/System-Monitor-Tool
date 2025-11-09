@@ -4,17 +4,17 @@ Objective
 Create a System Monitor Tool in *C++* that displays real-time information about system processes, memory usage, and CPU load — similar to the top command in Linux.
 
  Features
-1. Displays real-time *CPU usage*  
-2. Displays real-time *Memory usage*  
+1. Displays real-time CPU usage  
+2. Displays real-time Memory usage  
 3. Shows a list of active processes with *PID, name, state, and memory usage*  
 4. Allows sorting of processes by *CPU usage*  
 5. Provides an option to *terminate (kill)* a process by PID  
 6. Auto-refreshes the data every 3 seconds  
 
  Technology Used
-- *Programming Language:* C++ (C++17 standard)  
-- *Operating System:* Linux (WSL / Ubuntu)  
-- *Libraries:* <iostream>, <fstream>, <dirent.h>, <unistd.h>, <csignal>, <thread>, <algorithm>, <iomanip>
+- Programming Language: C++ (C++17 standard)  
+- Operating System: Linux (WSL / Ubuntu)  
+- Libraries: <iostream>, <fstream>, <dirent.h>, <unistd.h>, <csignal>, <thread>, <algorithm>, <iomanip>
 
 How to Compile and Run
 
